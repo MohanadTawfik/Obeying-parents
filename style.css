@@ -14,6 +14,7 @@ body {
   margin-top: 10px;
   padding-top: 20px;
 }
+
 .title {
   text-align: center;
   font-size: 40px;
@@ -23,16 +24,15 @@ body {
   border-bottom: 5px solid #228dff;
   border-top: 5px solid #228dff;
   border-radius: 50px;
-  width: fit-content;
-  padding: 5px 20px;
+  padding: 5px 50px;
   margin: 10px auto;
   margin-bottom: 40px;
   color: #da36c9;
+  width: 468px;
 }
 h1,
 h3 {
   border-right: 4px solid #228dff;
-  width: fit-content;
   padding: 0 5px;
   color: #da36c9;
 }
